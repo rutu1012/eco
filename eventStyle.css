@@ -1,0 +1,46 @@
+body{
+    background-color: #f1f4a7;
+    background-image: url("birds.png");
+    
+    background-position: top;
+    background-size: cover;
+    font-family: "Lato",sans-serif;
+    /* background-repeat: no-repeat; */
+}
+
+.heading{
+    background-color: white;
+    height: 2%;
+    width:22%;
+    border-radius: 15px;
+    margin-bottom: 5%; 
+    position: center;
+}
+.estruct {
+    margin-top: 10%;
+    background-color: #316835;
+    border-radius: 25px;
+    
+    /* color: white; */
+    /* font-weight: 900; */
+    /* max-width: 90%; */
+  }
+.assoc {
+    margin-top: 10%;
+    background-color: #316835;
+    border-radius: 25px;
+    /* color: white; */
+    /* font-weight: 900; */
+    max-width: 90%;
+  }
+.pnfcard{
+    border-radius: 30px;
+    height: 250px;
+    width: 250px;
+}
+.associmg {
+    width: 250px;
+    aspect-ratio: auto 200 / 200;
+    height: 200px;
+
+  }
